@@ -61,4 +61,3 @@ Yazılım dünyasının geniş yelpazesi içinde kendimi geliştirdim ve Java, P
 ## 📧 İletişim
 ✉️ E-posta: ozancakar49@gmail.com
 
-<img src="https://raw.githubusercontent.com/ozancakar/ozancakar/output/snake.svg" alt="Yılan Animasyonu" />
