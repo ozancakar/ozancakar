@@ -12,7 +12,7 @@ Yazılım dünyasının geniş yelpazesi içinde kendimi geliştirdim ve Java, P
 
 
 ## 🚀 Becerilerim
-- **Diller:** Java, Python, C#
+- **Diller:** Java, Python, C# , Golang
 - **Web Teknolojileri:** HTML5, JavaScript, CSS, TypeScript
 - **Web Framework'ler:** Angular, React
 - **Ağ:** Network konularında uzman
