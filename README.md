@@ -6,17 +6,17 @@
 #💻# 
  Türkiye'de yaşayan bir yazılım geliştiriciyim. Yazılım dünyasına atılmadan önce hep bir adım önde olmaya çalışan, öğrenmeye ve kendini geliştirmeye her zaman açık biriyim.
 
-Yazılım dünyasının geniş yelpazesi içinde kendimi geliştirdim ve Java, Python ve C# gibi dillerde deneyim kazandım. Web teknolojilerine olan tutkum, JavaScript, TypeScript, React, HTML5 ve CSS3 gibi alanlarda uzmanlık kazanmama sebep oldu. Ayrıca ağ konularında uzmanlık, DevOps alanında Docker, Kubernetes ve Jenkins gibi teknolojilere hakimiyetimle birleşiyor.
+Yazılım dünyasının geniş yelpazesi içinde kendimi olabildiğince farklı alanlarda geliştirmeye çalıştım. Java, Python ve C# gibi dillerle yazılımın doğasını öğrenerek deneyim kazandım. Web teknolojilerine olan aşinalığımla, JavaScript, TypeScript, React, HTML5 ve CSS3 gibi alanlarda da sürekli araştırmaya teşvik ediyor. 
+Kariyerimi DevOps alanında ilertletmeminde getirisiye Docker, Kubernetes, CI/CD ve Azure DevOps gibi teknolojilerde deneyim sahibiyim.
 
-🌐 Grup çalışması benim için sadece bir iş değil, aynı zamanda bir tutku! Eğer seninle birlikte çalışabilirsek, birlikte harika projelere imza atabiliriz!
-
+🌐 
 
 ## 🚀 Becerilerim
-- **Diller:** Java, Python, C# , Golang
+- **Diller:** Java, Python, C# , Go (Temel Düzey)
 - **Web Teknolojileri:** HTML5, JavaScript, CSS, TypeScript
 - **Web Framework'ler:** Angular, React
-- **Ağ:** Network konularında uzman
-- **DevOps:** Docker, Kubernetes, Jenkins
+- **Ağ:** CCNA 200-301  (Sertifikam yok)
+- **DevOps:** Docker, Kubernetes, Azure DevOps
 - **Bulut:** AWS, Azure
 
 <img align="right" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Kodlama Atmosferi Gifi" />
