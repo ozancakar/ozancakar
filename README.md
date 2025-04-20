@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Working on a Computer Gif" />
 
-I am a **DevOps Engineer** living in Turkey. I specialize in automation, continuous integration, continuous delivery (CI/CD), and cloud solutions. With experience in technologies like Docker, Kubernetes, Jenkins, and Azure DevOps, I focus on optimizing infrastructure automation and CI/CD processes to build secure and efficient systems.
+I am a **DevOps Engineer** I specialize in automation, continuous integration, continuous delivery (CI/CD), and cloud solutions. With experience in technologies like Docker, Kubernetes, Jenkins, and Azure DevOps, I focus on optimizing infrastructure automation and CI/CD processes to build secure and efficient systems.
 
 My goal is to always follow best practices and strengthen the DevOps culture with the evolving technologies. I continue to advance in the world of software and systems engineering thanks to my passion for continuous learning and self-development.
 
