@@ -41,8 +41,8 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
 - Implemented **Helm Charts** for efficient and sustainable Kubernetes deployments.
 
 ## 💡 Education and Certifications
-- ** Computer Engineering Degree **
-- ** Not yet :) ** 
+- ** Computer Engineering Degree (2020 - 2024) **
+- ** Certifications Not yet :) ** 
 
 
 ## 🌐 Social Media and Contact
