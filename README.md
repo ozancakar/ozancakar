@@ -12,7 +12,7 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
 - **Cloud Platforms:** AWS, Azure, GCP
 - **Configuration Management and Automation:** Ansible, Terraform, Puppet
 - **System Administration:** Linux, Bash Scripting, Networking
-- **Monitoring and Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Zabbix
+- **Monitoring and Logging:** Prometheus, OpenTelemetry, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Zabbix
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis, MinIO
 
 ## 📊 GitHub Stats
