@@ -22,41 +22,42 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
 ## 🛠️ Technologies I Use
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" />
+  <!-- Containerization & Orchestration -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" />
   
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
+  <!-- CI/CD -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" title="ArgoCD" />
   
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" />
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <!-- AWS -->
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" />
+  <!-- Infrastructure as Code -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" />
   
-  <!-- ArgoCD -->
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/argoproj/argo-cd/stable/docs/assets/argocd-icon.png" alt="ArgoCD" title="ArgoCD" />
+  <!-- Version Control -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
   
-  <!-- OpenTelemetry -->
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/open-telemetry/opentelemetry-logos/main/opentelemetry-logo-color.svg" alt="OpenTelemetry" title="OpenTelemetry" />
+  <!-- Cloud Providers -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure" />
   
-  <!-- Vault -->
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/hashicorp/vault/master/logo/vault-logo-icon.svg" alt="Vault" title="Vault" />
+  <!-- Operating Systems -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
   
-  <!-- Fluentd -->
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/fluent/fluentd-docs/gh-pages/images/fluentd-icon.png" alt="Fluentd" title="Fluentd" />
+  <!-- Monitoring & Observability -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="OpenTelemetry" title="OpenTelemetry" />
   
-  <!-- Elasticsearch -->
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" title="Elasticsearch" />
+  <!-- Security -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="Vault" title="Vault" />
   
-  <!-- RabbitMQ -->
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" />
+  <!-- Logging -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" alt="Fluentd" title="Fluentd" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" title="Elasticsearch" />
+  
+  <!-- Messaging -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" />
 </div>
 
 
