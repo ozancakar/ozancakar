@@ -35,14 +35,32 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
   
   <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" />
   <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://argoproj.github.io/argo-cd/assets/argo-icon.png" alt="ArgoCD" title="ArgoCD" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://opentelemetry.io/img/opentelemetry-logo-color.svg" alt="OpenTelemetry" title="OpenTelemetry" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://helm.sh/img/helm.svg" alt="Helm" title="Helm" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://www.vaultproject.io/assets/images/logo-icon.svg" alt="Vault" title="Vault" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://www.fluentd.org/assets/img/fluentd-logo.png" alt="Fluentd" title="Fluentd" />
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <!-- AWS -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" />
   
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Elasticsearch_logo.svg" alt="Elasticsearch" title="Elasticsearch" />
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://www.rabbitmq.com/img/rabbitmq_logo.svg" alt="RabbitMQ" title="RabbitMQ" />
+  <!-- ArgoCD -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/argoproj/argo-cd/stable/docs/assets/argocd-icon.png" alt="ArgoCD" title="ArgoCD" />
+  
+  <!-- OpenTelemetry -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/open-telemetry/opentelemetry-logos/main/opentelemetry-logo-color.svg" alt="OpenTelemetry" title="OpenTelemetry" />
+  
+  <!-- Vault -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/hashicorp/vault/master/logo/vault-logo-icon.svg" alt="Vault" title="Vault" />
+  
+  <!-- Fluentd -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/fluent/fluentd-docs/gh-pages/images/fluentd-icon.png" alt="Fluentd" title="Fluentd" />
+  
+  <!-- Elasticsearch -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" title="Elasticsearch" />
+  
+  <!-- RabbitMQ -->
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" title="RabbitMQ" />
+</div>
+
+
+  
 </div>
 
 ## 🛠️ CI/CD and Infrastructure Management Experience
