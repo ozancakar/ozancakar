@@ -20,18 +20,29 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozancakar&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 
 ## 🛠️ Technologies I Use
-<div align="left">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker Logo" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes Logo" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins Logo" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform Logo" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible Logo" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git Logo" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Logo" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure Logo" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Logo" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus Logo" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana Logo" />
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" />
+  
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
+  
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://argoproj.github.io/argo-cd/assets/argo-icon.png" alt="ArgoCD" title="ArgoCD" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://opentelemetry.io/img/opentelemetry-logo-color.svg" alt="OpenTelemetry" title="OpenTelemetry" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://helm.sh/img/helm.svg" alt="Helm" title="Helm" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://www.vaultproject.io/assets/images/logo-icon.svg" alt="Vault" title="Vault" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://www.fluentd.org/assets/img/fluentd-logo.png" alt="Fluentd" title="Fluentd" />
+  
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Elasticsearch_logo.svg" alt="Elasticsearch" title="Elasticsearch" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://www.rabbitmq.com/img/rabbitmq_logo.svg" alt="RabbitMQ" title="RabbitMQ" />
 </div>
 
 ## 🛠️ CI/CD and Infrastructure Management Experience
