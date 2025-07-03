@@ -38,7 +38,8 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
   <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
   
   <!-- Cloud Providers -->
-  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" />
+  <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" />
   <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure" />
   
   <!-- Operating Systems -->
