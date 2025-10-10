@@ -34,6 +34,8 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" />
 
   <!-- CI/CD -->
+  <img height="40" width="40" src="https://www.svgrepo.com/show/373664/helm.svg" alt="Helm" title="Helm" />
+  
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" />
   <img height="40" width="40" src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" title="ArgoCD" />
 
