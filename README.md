@@ -62,7 +62,7 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
   <!-- Security -->
   <img height="40" width="40" src="https://www.svgrepo.com/show/448256/vault.svg" alt="Vault" title="Vault" />
   
-  <img height="40" width="40" src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="SonarQube" title="SonarQube" />
+  <img height="80" width="80" src="https://www.svgrepo.com/show/354365/sonarqube.svg" alt="SonarQube" title="SonarQube" />
   
 
   <!-- Logging -->
