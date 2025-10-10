@@ -27,7 +27,7 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
   <img height="40" width="40" src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="Red Hat" title="Red Hat" />
   <img height="40" width="40" src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" title="OpenShift" />
   <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/OKD-logo.svg" alt="OKD" title="OKD" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/goharbor/website/main/docs/img/logos/harbor-icon-color.svg" alt="Harbor" title="Harbor" />
+  <img height="40" width="40" src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="Harbor" title="Harbor" />
   
   <!-- Containerization & Orchestration -->
   <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
