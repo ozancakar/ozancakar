@@ -22,6 +22,23 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
 ## 🛠️ Technologies I Use
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <!-- Red Hat -->
+<img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" 
+     src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="Red Hat" title="Red Hat" />
+
+<!-- OpenShift -->
+<img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" 
+     src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" title="OpenShift" />
+
+<!-- OKD (OpenShift Origin) -->
+<img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" 
+     src="https://upload.wikimedia.org/wikipedia/commons/3/3d/OpenShift-OKD-Logo.svg" alt="OKD" title="OKD" />
+
+<!-- Harbor -->
+<img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" 
+     src="https://goharbor.io/img/logos/harbor-icon-color.svg" alt="Harbor" title="Harbor" />
+     
   <!-- Containerization & Orchestration -->
   <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
   <img height="40" width="40" style="border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" />
