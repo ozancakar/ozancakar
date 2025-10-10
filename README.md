@@ -62,7 +62,8 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
   <!-- Security -->
   <img height="40" width="40" src="https://www.svgrepo.com/show/448256/vault.svg" alt="Vault" title="Vault" />
   
-
+  <!-- Network -->
+  <img height="40" width="40" src="https://www.svgrepo.com/vectors/traefik/" alt="GoLang" title="GoLang" />
   
 
   <!-- Logging -->
