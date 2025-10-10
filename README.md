@@ -58,7 +58,7 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
   <img height="40" width="40" src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="OpenTelemetry" title="OpenTelemetry" />
 
   <!-- Security -->
-  <img height="40" width="40" src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="Vault" title="Vault" />
+  <img height="40" width="40" src="https://www.svgrepo.com/show/448256/vault.svg" alt="Vault" title="Vault" />
 
   <!-- Logging -->
   <img height="40" width="40" src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" alt="Fluentd" title="Fluentd" />
