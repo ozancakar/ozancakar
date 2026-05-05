@@ -11,7 +11,7 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
 - **Continuous Integration and Continuous Delivery (CI/CD):** Azure DevOps, Jenkins, GitLab CI
 - **Cloud Platforms:** AWS, Azure, GCP
 - **Configuration Management and Automation:** Ansible, Terraform, Puppet
-- **System Administration:** Linux, Bash Scripting, Networking
+- **System Administration:** Linux,Windows Bash Scripting, Networking
 - **Monitoring and Logging:** Prometheus, OpenTelemetry, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Zabbix
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis, MinIO
 
@@ -80,7 +80,7 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
 </div>
 
 ## 🛠️ CI/CD and Infrastructure Management Experience
-- Managed containerized applications and orchestrated with **Docker** and **Kubernetes**. I optimized Kubernetes deployments, scaling, and management.
+- Managed containerized applications and orchestrated with **Docker**, **Kubernetes**, **OpenShift**. I optimized Kubernetes deployments, scaling, and management.
 - Built **CI/CD Pipelines** using **Jenkins**, **GitLab CI**, and **Azure DevOps** to automate testing and deployment processes.
 - Used **Ansible, Puppet and Terraform** for infrastructure management and automation (IaC).
 - Implemented **Helm Charts** for efficient and sustainable Kubernetes deployments.
