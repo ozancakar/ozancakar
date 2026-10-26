@@ -2,13 +2,13 @@
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Working on a Computer Gif" />
 
-I am a **DevOps Engineer** I specialize in automation, continuous integration, continuous delivery (CI/CD), and cloud solutions. With experience in technologies like Docker, Kubernetes, Jenkins, and Azure DevOps, I focus on optimizing infrastructure automation and CI/CD processes to build secure and efficient systems.
+I am a **DevOps Engineer** I specialize in automation, continuous integration, continuous delivery (CI/CD), and cloud solutions. With experience in technologies like Docker, Kubernetes,OpenShift,Jenkins,ArgoCD,Helm and Azure DevOps, I focus on optimizing infrastructure automation and CI/CD processes to build secure and efficient systems.
 
 My goal is to always follow best practices and strengthen the DevOps culture with the evolving technologies. I continue to advance in the world of software and systems engineering thanks to my passion for continuous learning and self-development.
 
 ## 🚀 Skills and Experience
-- **DevOps and Infrastructure Management:** Docker, Kubernetes, Helm, Jenkins, GitLab CI, Terraform, Ansible, Puppet, Harbor Image Repository
-- **Continuous Integration and Continuous Delivery (CI/CD):** Azure DevOps, Jenkins, GitLab CI
+- **DevOps and Infrastructure Management:** Docker, Kubernetes,OpenShift Helm,ArgoCD, Jenkins, GitLab CI, Terraform, Ansible, Puppet, Harbor Image Repository
+- **Continuous Integration and Continuous Delivery (CI/CD):** Azure DevOps, Jenkins,Helm,ArgoCD, GitLab CI
 - **Cloud Platforms:** AWS, Azure, GCP
 - **Configuration Management and Automation:** Ansible, Terraform, Puppet
 - **System Administration:** Linux,Windows Bash Scripting, Networking
