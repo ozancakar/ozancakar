@@ -93,7 +93,6 @@ My goal is to always follow best practices and strengthen the DevOps culture wit
 ## 🌐 Social Media and Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ozan--cakar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ozan-çakar-651490228)
 [![GitHub](https://img.shields.io/badge/GitHub-ozancakar-black?style=for-the-badge&logo=github)](https://github.com/ozancakar)
-[![Instagram](https://img.shields.io/badge/Instagram-ozzy.ckr-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/ozzy.ckr/)
 
 ## 📧 Contact
 ✉️ Email: ozancakar49@gmail.com
